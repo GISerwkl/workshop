@@ -1,2 +1,3 @@
 # workshop
-sysu workshop
+
+Workshop at Sun Yat-sen University
